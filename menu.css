@@ -1,0 +1,11 @@
+body{
+    background-image: url(b2.png);
+    background-color: transparent;
+    font-size: 1.6rem; 
+    font-family: "Open Sans", sans-serif;
+    color: #2b3e51;
+}
+
+name{
+    nav-right: auto;
+}
