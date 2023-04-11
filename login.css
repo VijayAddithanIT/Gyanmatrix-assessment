@@ -49,6 +49,7 @@ body {
     cursor: pointer;
     text-align: center; 
     border-radius: 38px;
+    border: 2px solid #ff9100;
   }
  
 input[type="submit"] {
