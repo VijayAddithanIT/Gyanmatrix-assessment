@@ -1,0 +1,71 @@
+body {
+    background-image: url(images/login\ bg.png);
+    background-color: #000;
+    font-size: 1.6rem; 
+    font-family: roboto;
+    color: white;
+    background-position: cover;
+  }
+  h2 {
+    font-weight: 300;
+    text-align: center;
+    font-family: roboto;
+  }
+  p {
+    position: relative;
+  }
+ 
+
+  #loginform{
+
+    width: 16em;
+    margin-right: 30px auto;
+    text-align: center;
+    padding: 20px 0 0 0;
+    border-radius: 38px;
+    border-color: #ff9100;
+  }
+  #login-form {
+    padding: 0 60px;
+    font-family: roboto;
+  }
+  input {
+    display: block;
+    border-radius: 38px;
+    width: 100%;
+    outline: none;
+    height: 60px;
+    line-height: 60px;
+    border-radius: 4px;
+  }
+  #email,
+  #password {
+    border: none;
+    display: block;
+    color:white; 
+    font-size: 18px;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    border-radius: 38px;
+    border: 2px solid #ff9100;
+    background-color: transparent;
+    font-family: roboto;
+}
+ 
+input[type="submit"] {
+    border: none;
+    display: block;
+    background-color: #FFCD2D;
+    color: #000; 
+    font-size: 18px;
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center; 
+    border-radius: 38px;
+  }
+.validation{
+    border-radius: 38px; 
+    
+}
